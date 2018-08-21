@@ -5,4 +5,4 @@ CS231n: Convolutional Neural Networks for Visual Recognition,  a course from sta
 This is my CS231n course assignment repository, which includes 3 assignments.
 
 Rate of progress: 
-- assignment1 finished(8/2018)
+- Assignment1 completed (8/2018)
