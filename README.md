@@ -8,3 +8,4 @@ The repository doesn't contain CIFAR10 data set. Please go to [The CIFAR-10 data
 
 Rate of progress: 
 - Assignment1 completed (8/2018)
+- Assignment2 completed (11/2018)
